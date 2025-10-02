@@ -23,6 +23,8 @@ height: 100vh;
     max-width: 600px;
     text-align: center;
     padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 10px;
 }
 h1{
     color: var(--cor-secundaria);
